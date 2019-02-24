@@ -1,0 +1,15 @@
+{
+    "name": "figdice/figdice-examples",
+    "description": "Getting started with FigDice",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Zerbib",
+            "email": "gabriel@figdice.org"
+        }
+    ],
+    "require": {
+        "figdice/figdice": "^3.2"
+    }
+}
